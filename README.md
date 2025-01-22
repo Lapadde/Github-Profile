@@ -9,7 +9,7 @@
 
 - 💬 Jangan tanya saya bagaimana kodingan saya bisa berjalan **Karna saya sendiri tidak tau**
 
-- ⚡ Fun fact **Bukan Pendukung Anis**
+- ⚡ Fun fact **Cinta itu kayak Git: Kadang perlu pull, kadang perlu push**
 
 <h3 align="left">Sosial Media Saya:</h3>
 <p align="left">
